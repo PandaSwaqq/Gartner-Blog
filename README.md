@@ -1,4 +1,4 @@
-#Gartner-Blog
+# Gartner-Blog
 
 Developers use microservices to build softwares that breaks down complex applications into smaller chunks. That's why it's understanding in why it became so popular due to allowing teams to work more effeciently and independently. However, there's still the issue of how to approach the process of microservices. Some organizations fail to implement microservices due to having to adapt to the change in the workplace.
 
